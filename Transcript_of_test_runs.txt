@@ -1,0 +1,677 @@
+﻿C:\Users\mehul.goel\Anaconda3\envs\pythonProjectAayush\python.exe D:/pythonProjectAayush/project1MehulAayush.py
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+ENTER THE SEARCH QUERY: 
+per se
+
+FOR EACH OF THE SEARCH RESULTS RETURNED BY THE SYSTEM BELOW:
+IF IT IS RELEVANT TO THE QUERY    : TYPE 'y' OR 'Y'
+IF IT IS NOT RELEVANT TO THE QUERY: TYPE 'n' OR 'N'
+
+RESULT NUMBER = 1
+TITLE: Per Se | Thomas Keller Restaurant Group
+WEBSITE: https://www.thomaskeller.com/perseny
+SUMMARY: Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center. 
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: Per se - Wikipedia
+WEBSITE: https://en.wikipedia.org/wiki/Per_se
+SUMMARY: Per se may refer to: per se, a Latin phrase meaning "by itself" or "in itself". Illegal 
+per se, the legal usage in criminal and antitrust law; Negligence per se, legal ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 3
+TITLE: Perse | Definition of Perse by Merriam-Webster
+WEBSITE: https://www.merriam-webster.com/dictionary/perse
+SUMMARY: We generally use per se to distinguish between something in its narrow sense 
+and some larger thing that it represents. Thus, you may have no objection to ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 4
+TITLE: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+WEBSITE: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+SUMMARY: Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new 
+napkin could have been intentional. The restaurant's identity, to ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 5
+TITLE: Per se meaning, how to use per se in a sentence | Readable ...
+WEBSITE: https://readable.com/blog/how-to-correctly-use-per-se/
+SUMMARY: Aug 11, 2017 ... 'Per se' is a Latin term which literally means, “by itself”, “in itself” or “of itself”. This 
+means you're taking something out of its context to describe it ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 6
+TITLE: per se - Wiktionary
+WEBSITE: https://en.wiktionary.org/wiki/per_se
+SUMMARY: Borrowed from Latin per sē (“by itself”), from per (“by, through”) and sē (“itself, 
+himself, herself, themselves”). PronunciationEdit. (UK) IPA: /pəːˈseɪ/ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 7
+TITLE: Per Se - Home - New York, New York - Menu, Prices, Restaurant ...
+WEBSITE: https://www.facebook.com/perse/
+SUMMARY: Per Se, New York, NY. 56279 likes · 257 talking about this · 50019 were here. 
+The official page of Thomas Keller's Per Se.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 8
+TITLE: Per Se (@perseny) • Instagram photos and videos
+WEBSITE: https://www.instagram.com/perseny/?hl=en
+SUMMARY: Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus 
+Circle & Central Park located in New York City. www.exploretock.com/perse.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 9
+TITLE: Per Se DUI Laws - FindLaw
+WEBSITE: https://www.findlaw.com/dui/laws-resources/per-se-dui-laws.html
+SUMMARY: Oct 25, 2018 ... Per se laws in DUI or DWI cases generally establish that once an individual is 
+shown to have a blood-alcohol concentration (BAC) at or above ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 10
+TITLE: Per Se Restaurant - New York, NY | OpenTable
+WEBSITE: https://www.opentable.com/per-se
+SUMMARY: Per Se offers two prix fixe tasting menus a Tasting of Vegetables or the Chef's 
+Tasting Menu, which changes daily. Dining Style. Fine Dining. Cuisines. 
+American ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 0.4
+REQUIRED PRECISION = 0.9
+EXPANDED QUERY TERMS:  ['Se', 'front', 'door']
+
+RESULT NUMBER = 1
+TITLE: Per Se | Thomas Keller Restaurant Group
+WEBSITE: https://www.thomaskeller.com/perseny
+SUMMARY: Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center. 
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: Front Door to Per Se by Jeremiah Christopher - Picture of Per Se ...
+WEBSITE: https://www.tripadvisor.com/LocationPhotoDirectLink-g60763-d425628-i122051774-Per_Se-New_York_City_New_York.html
+SUMMARY: Per Se, New York City Picture: Front Door to Per Se by Jeremiah Christopher - 
+Check out Tripadvisor members' 92452 candid photos and videos of Per Se.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 3
+TITLE: Interior & Exterior Gallery | Thomas Keller Restaurant Group
+WEBSITE: https://www.thomaskeller.com/time-warner-new-york/per-se/interior-exterior-gallery
+SUMMARY: Per Se blue door Per Se Table Setting Per Se private dining room Chef plating 
+food. Thomas Keller. Biography · Timeline · Honors & Accolades · Philosophy.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 4
+TITLE: Per Se - New York City Restaurants - New York, United States ...
+WEBSITE: https://www.forbestravelguide.com/restaurants/new-york-city-new-york/per-se
+SUMMARY: Per Se bears the same blue front doors as The French Laundry (its country 
+cousin in Napa Valley) and has similar high-end flourishes (like nine varieties of 
+salt), ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 5
+TITLE: Per Se (restaurant) - Wikipedia
+WEBSITE: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+SUMMARY: Per Se is a New American and French restaurant located on the fourth floor of the 
+Time Warner ... Per Se. PerSe.jpg. The main dining room, February 2008. 
+Restaurant information ... both his and Keller's pasts; for example, the decorative 
+blue door at the main entrance is modeled after the blue door at The French 
+Laundry.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 6
+TITLE: New York's Hottest Neighborhood | The Shops at Columbus Circle
+WEBSITE: https://www.theshopsatcolumbuscircle.com/why-columbus-circle-is-new-yorks-hottest-neighborhood/
+SUMMARY: Per Se front door. Momofuku interior. "Bluebird. The area has also become the 
+latest pre- and post-theater dining destination, with locals and travelers flocking 
+to ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 7
+TITLE: Does frontdoor, inc.'s (NASDAQ:FTDR) P/E Ratio Signal A Buying ...
+WEBSITE: https://www.yahoo.com/now/does-frontdoor-inc-nasdaq-ftdr-123930741.html
+SUMMARY: Jan 17, 2020 ... We'll apply a basic P/E ratio analysis to frontdoor, inc. ... That is not a good or a 
+bad thing per se, but a high P/E does imply buyers are optimistic ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 8
+TITLE: Pin on Bar and Restaurant
+WEBSITE: https://www.pinterest.com/pin/488570259545908677/
+SUMMARY: ... tasting menus at both The French Laundry under Corey Lee and Per Se… ... 
+Shut the front door ❤ liked on Polyvore featuring home, home decor and dog ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 9
+TITLE: How to Order Wine Like a Pro | The Shops at Columbus Circle
+WEBSITE: https://www.theshopsatcolumbuscircle.com/how-to-order-wine-like-a-pro/
+SUMMARY: Front door to Per Se. Sommelier Michael Covreaux. What if someone is 
+intimidated by sommeliers? They shouldn't be. Some people think we're going to 
+serve a ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 10
+TITLE: What Does Your Front Door Say About You? - Interior Designer ...
+WEBSITE: https://definedinteriors.com/front-door-say/
+SUMMARY: Feb 12, 2018 ... The front door isn't just a door per se; it is one of the most important elements of 
+the entire house. If the Kitchen is the soul or heartbeat of your ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 0.5
+REQUIRED PRECISION = 0.9
+EXPANDED QUERY TERMS:  ['restaur', 'keller', 'blue']
+
+RESULT NUMBER = 1
+TITLE: Per Se | Thomas Keller Restaurant Group
+WEBSITE: https://www.thomaskeller.com/perseny
+SUMMARY: Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center. 
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: Per Se (restaurant) - Wikipedia
+WEBSITE: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+SUMMARY: Per Se is a New American and French restaurant located on the fourth floor of the 
+Time Warner ... Thomas Keller opened Per Se in February 2004. ... from both his 
+and Keller's pasts; for example, the decorative blue door at the main entrance is ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 3
+TITLE: Interior & Exterior Gallery | Thomas Keller Restaurant Group
+WEBSITE: https://www.thomaskeller.com/time-warner-new-york/per-se/interior-exterior-gallery
+SUMMARY: View our health and safety information · Thomas Keller · Per Se blue door Per Se 
+Table Setting Per Se private dining room Chef plating food. Thomas Keller.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 4
+TITLE: Redesigning the restaurant: Behind the scenes at Per Se with ...
+WEBSITE: https://www.splendidtable.org/story/2013/08/30/redesigning-the-restaurant-behind-the-scenes-at-per-se-with-thomas-keller
+SUMMARY: Aug 30, 2013 ... Thomas Keller: It's The French Laundry, per se. ... same image that you see at 
+The French Laundry, which is the blue door. ... Per Se entrance ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 5
+TITLE: Once an Icon, Per Se Is Showing Its Age - Eater NY
+WEBSITE: https://ny.eater.com/2014/12/4/7310871/per-se-review-thomas-keller
+SUMMARY: Dec 4, 2014 ... Skip to main content ... The faux doors were also a reminder that, like any good 
+New Yorker, this chic ... Per Se, by chef Thomas Keller, was, and still is, one of 
+the country's ... So while younger, stripped-down restaurants invest in tools that ... 
+Left: Maine sea scallop, Blue foot mushrooms, Black winter truffle ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 6
+TITLE: Per Se - New York City Restaurants - New York, United States ...
+WEBSITE: https://www.forbestravelguide.com/restaurants/new-york-city-new-york/per-se
+SUMMARY: Per Se bears the same blue front doors as The French Laundry (its country 
+cousin in Napa ... (like nine varieties of salt), as well as chef Thomas Keller's 
+legendary.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 7
+TITLE: Pin on Food & Beverages
+WEBSITE: https://www.pinterest.com/pin/185914290856437648/
+SUMMARY: Jun 19, 2018 - Thomas Keller's Per Se restaurant blue doors NYC.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 8
+TITLE: At Per Se, International Chefs Take a Seat at the Table - Cultural ...
+WEBSITE: https://culturalvistas.org/blog/features/per-se-trainees/
+SUMMARY: Sep 21, 2017 ... ... see a different menu every time you walk you through Per Se's blue doors. ... 
+The Michelin three-starred restaurant is located across from Central Park in the 
+Time Warner Center. ... Per Se Thomas Keller Main Dining Room ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 9
+TITLE: Pin on DOORS
+WEBSITE: https://www.pinterest.com/pin/384846730628195303/
+SUMMARY: Thomas Keller's Per Se restaurant blue doors NYC. Jasmine Kim. 593 followers 
+... Front door, The French Laundry Yountville, CA Entry Doors, Blue Front Door,.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 10
+TITLE: Pin on Haute Cuisine
+WEBSITE: https://www.pinterest.es/pin/43769427602953807/
+SUMMARY: Mar 5, 2014 - Per Se is one of New York City's most expensive restaurants, but its 
+"C'' grade from health ... Thomas Keller's Per Se restaurant blue doors NYC.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 1.0
+REQUIRED PRECISION ACHIEVED
+QUERY:  ['per', 'se', 'Se', 'front', 'door', 'restaur', 'keller', 'blue']
+
+
+Process finished with exit code 0
+
+
+
+
+
+C:\Users\mehul.goel\Anaconda3\envs\pythonProjectAayush\python.exe D:/pythonProjectAayush/project1MehulAayush.py
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+ENTER THE SEARCH QUERY: 
+brin
+
+FOR EACH OF THE SEARCH RESULTS RETURNED BY THE SYSTEM BELOW:
+IF IT IS RELEVANT TO THE QUERY    : TYPE 'y' OR 'Y'
+IF IT IS NOT RELEVANT TO THE QUERY: TYPE 'n' OR 'N'
+
+RESULT NUMBER = 1
+TITLE: Sergey Brin - Wikipedia
+WEBSITE: https://en.wikipedia.org/wiki/Sergey_Brin
+SUMMARY: Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the 
+president ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: worlds of David Brin
+WEBSITE: https://www.davidbrin.com/
+SUMMARY: The official website of best-selling science fiction writer and futurist DAVID BRIN.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 3
+TITLE: Brin & Brin LLC – Law Firm
+WEBSITE: https://brinandbrin.com/
+SUMMARY: The litigation, transactional and compliance lawyers at Brin & Brin have proven 
+success in some of the toughest Texas venues. We have represented clients in a
+ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 4
+TITLE: Sergey Brin
+WEBSITE: https://www.forbes.com/profile/sergey-brin/
+SUMMARY: Sergey Brin stepped down as president of Alphabet, parent company of Google, 
+in December 2019 but remains a controller shareholder and a board member.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 5
+TITLE: Documentation: 13: 67.1. Introduction - PostgreSQL
+WEBSITE: https://www.postgresql.org/docs/13/brin-intro.html
+SUMMARY: 67.1. Introduction. 67.1.1. Index Maintenance. BRIN stands for Block Range 
+Index. BRIN is designed for handling very large tables ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 6
+TITLE: Brin Levinson
+WEBSITE: https://www.brinlevinson.com/
+SUMMARY: The Art of Brin Levinson.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 7
+TITLE: Brin Glass: Commercial Glass Company
+WEBSITE: https://www.bringlass.com/
+SUMMARY: Brin Glass provides commercial glass services including wholesale distribution 
+and fabrication of glass and architectural aluminum products, glass service and ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 8
+TITLE: Documentation: 9.5: Introduction - PostgreSQL
+WEBSITE: https://www.postgresql.org/docs/9.5/brin-intro.html
+SUMMARY: BRIN stands for Block Range Index. BRIN is designed for handling very large 
+tables in which certain columns have some natural correlation with their physical
+ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 9
+TITLE: brin - Wiktionary
+WEBSITE: https://en.wiktionary.org/wiki/brin
+SUMMARY: NounEdit. brin (plural brins). One of the radiating sticks of a fan. The outermost 
+are larger and longer, and are called panaches. (Can we find and add a ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+RESULT NUMBER = 10
+TITLE: Born & Raced In Nebraska | BRIN Running Series
+WEBSITE: https://www.bornandracedne.com/
+SUMMARY: The Born & Raced In Nebraska Series (BRIN) consists of Nebraska's most talked 
+about 10K races each year: the Leprechaun Chase, Cornfield Cornfield, and ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 0.2
+REQUIRED PRECISION = 0.9
+EXPANDED QUERY TERMS:  ['sergey', 'googl', 'presid']
+
+RESULT NUMBER = 1
+TITLE: Google founders Larry Page and Sergey Brin stepping down as ...
+WEBSITE: https://abcnews.go.com/Business/google-founders-larry-page-sergey-brin-stepping-company/story?id=67472607
+SUMMARY: Dec 3, 2019 ... Google's founder Larry Page and Sergey Brin stepping down from their executive 
+roles. ... Googles founders step down as CEO and president.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: Google founders Larry Page and Sergey Brin step back from top ...
+WEBSITE: https://www.bbc.com/news/technology-50653345
+SUMMARY: Dec 4, 2019 ... And Alphabet and Google no longer need two CEOs and a President," their letter 
+said. They also declared it was time to "assume the role of ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 3
+TITLE: Sergey Brin - Wikipedia
+WEBSITE: https://en.wikipedia.org/wiki/Sergey_Brin
+SUMMARY: Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the 
+president ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 4
+TITLE: Sergey Brin: Life of Google cofounder, former Alphabet president
+WEBSITE: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+SUMMARY: Dec 4, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a 
+look inside his eccentric and wildly successful life. · Sergey Brin, ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 5
+TITLE: Google co-founder Sergey Brin joins protest against immigration ...
+WEBSITE: https://www.theverge.com/2017/1/28/14428262/google-sergey-brin
+SUMMARY: Jan 28, 2017 ... Sergey Brin, Google co-founder and president of Alphabet, joined protesters at 
+San Francisco International Airport tonight as demonstrators ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 6
+TITLE: Brin says Google 'failed to be on the bleeding edge' of blockchain
+WEBSITE: https://www.cnbc.com/2018/07/09/brin-says-google-failed-the-bleeding-edge-blockchain.html
+SUMMARY: Jul 9, 2018 ... Sergey Brin, president of Alphabet and co-founder of Google. David Paul Morris | 
+Bloomberg | Getty Images. Speaking from a blockchain ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 7
+TITLE: Sergey Brin
+WEBSITE: https://www.forbes.com/profile/sergey-brin/
+SUMMARY: Sergey Brin stepped down as president of Alphabet, parent company of Google, 
+in December 2019 but remains a controller shareholder and a board member.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 8
+TITLE: Sergey Brin | Biography, Google, & Facts | Britannica
+WEBSITE: https://www.britannica.com/biography/Sergey-Brin
+SUMMARY: Sergey Brin, American computer scientist and entrepreneur who created, along ... 
+Brin held various posts with Google, and he served as president of its holding ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 9
+TITLE: Alphabet management change - Investor Relations - Alphabet
+WEBSITE: https://abc.xyz/investor/news/releases/2019/1203/
+SUMMARY: Dec 3, 2019 ... Larry Page and Sergey Brin decide to transition from their roles as CEO and 
+President, respectively, of Alphabet. Sundar Pichai, CEO of Google ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 10
+TITLE: Google's Sergey Brin Calls For An Independent President
+WEBSITE: https://www.fastcompany.com/3002739/googles-sergey-brin-calls-independent-president
+SUMMARY: Nov 6, 2012 ... Google's Sergey Brin Calls For An Independent President. By Addy Dugdale 1 
+minute Read. Sergey Brin has pleaded for an end to party ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 1.0
+REQUIRED PRECISION ACHIEVED
+QUERY:  ['brin', 'sergey', 'googl', 'presid']
+
+
+Process finished with exit code 0
+
+
+
+C:\Users\mehul.goel\Anaconda3\envs\pythonProjectAayush\python.exe D:/pythonProjectAayush/project1MehulAayush.py
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\mehul.goel\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+ENTER THE SEARCH QUERY: 
+cases
+
+FOR EACH OF THE SEARCH RESULTS RETURNED BY THE SYSTEM BELOW:
+IF IT IS RELEVANT TO THE QUERY    : TYPE 'y' OR 'Y'
+IF IT IS NOT RELEVANT TO THE QUERY: TYPE 'n' OR 'N'
+
+RESULT NUMBER = 1
+TITLE: CASES: Home
+WEBSITE: https://www.cases.org/
+SUMMARY: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES 
+provides community-based alternatives to jail and prison. These programs 
+address ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 2
+TITLE: Coronavirus Update (Live): 109,235,718 Cases and 2,407,937 ...
+WEBSITE: https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?
+SUMMARY: Live statistics and coronavirus news tracking the number of confirmed cases, 
+recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 3
+TITLE: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+WEBSITE: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+SUMMARY: Confirmed cases by age group by date of symptom onset or diagnosis; Percent of 
+confirmed or probable cases by demographics and region; Percent of cases ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 4
+TITLE: Casenet
+WEBSITE: https://www.courts.mo.gov/casenet/cases/nameSearch.do
+SUMMARY: --(empty)--
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 5
+TITLE: Measles Cases and Outbreaks | CDC
+WEBSITE: https://www.cdc.gov/measles/cases-outbreaks.html
+SUMMARY: From January 1 to December 31, 2019, 1,282* individual cases of measles were 
+confirmed in 31 states. This is the greatest number of cases reported in the U.S. ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 6
+TITLE: COVID-19 Response Reporting | Mass.gov
+WEBSITE: https://www.mass.gov/info-details/covid-19-response-reporting
+SUMMARY: Case and testing information by city/town; Contact tracing cases and outreach; 
+Individuals released from isolation (recovered); Cases and deaths in Long Term
+ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 7
+TITLE: Coronavirus Update: Maps And Charts For U.S. Cases And Deaths ...
+WEBSITE: https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
+SUMMARY: 1 day ago ... Tens of thousands of new cases are reported daily nationwide. In the graphics 
+below, explore the trends in your state. View the data via a heat ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 8
+TITLE: Coronavirus COVID-19 (2019-nCoV)
+WEBSITE: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+SUMMARY: Case-Fatality Ratio (%) = Number recorded deaths / Number cases. US Testing 
+Rate: = total test results per 100,000 persons. The "total test results" are equal to "
+ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 9
+TITLE: Odd Squad: Cases
+WEBSITE: https://pbskids.org/oddsquad/games/cases
+SUMMARY: Visit Your Profile. Your Avatar. logout. Sign In To PBS KIDS. Apps · Shop · 
+Parents · WPTD WPTD station logo. TV Times; Settings. PBS KIDS Settings. 
+Close ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+n
+
+RESULT NUMBER = 10
+TITLE: CDC COVID Data Tracker
+WEBSITE: https://covid.cdc.gov/covid-data-tracker/
+SUMMARY: Cases in US. Last 30 Days. Total Vaccines. Administered. Deaths. in US. Deaths 
+in US. Last 30 Days. In observance of President's Day, the COVID Data Tracker ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 0.6
+REQUIRED PRECISION = 0.9
+EXPANDED QUERY TERMS:  ['death', 'coronaviru', 'test']
+
+RESULT NUMBER = 1
+TITLE: Coronavirus - Michigan Data
+WEBSITE: https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html
+SUMMARY: If a death certificate is matched to a confirmed COVID-19 case and that record in 
+... The State of Michigan is working around the clock to test and treat COVID-19 ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 2
+TITLE: CDC COVID Data Tracker
+WEBSITE: https://covid.cdc.gov/covid-data-tracker/
+SUMMARY: Cases in US. Last 30 Days. Total Vaccines. Administered. Deaths. in US. Deaths 
+in US ... View and Download COVID-19 Case Surveillance Public Use Data.
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 3
+TITLE: Coronavirus Pandemic (COVID-19) - Statistics and Research - Our ...
+WEBSITE: https://ourworldindata.org/coronavirus
+SUMMARY: Explore all metrics – including cases, deaths, testing, and vaccinations – in one 
+place. COVID-19 country profiles. Get an overview of the pandemic for any ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 4
+TITLE: SC Testing Data & Projections (COVID-19) | SCDHEC
+WEBSITE: https://scdhec.gov/covid19/sc-testing-data-projections-covid-19
+SUMMARY: COVID-19 cases, hospitalizations, and deaths are still at high levels. ... These 
+labs are required to report positive and negative test results for South Carolina ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 5
+TITLE: Cumulative COVID-19 tests, confirmed cases and deaths - Our ...
+WEBSITE: https://ourworldindata.org/grapher/covid-tests-cases-deaths
+SUMMARY: The confirmed counts shown here are lower than the total counts. The main 
+reason for this is limited testing and challenges in the attribution of the cause of ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 6
+TITLE: Coronavirus COVID-19 - Mississippi State Department of Health
+WEBSITE: https://msdh.ms.gov/coronavirus
+SUMMARY: New Cases and Deaths as of February 12. New Cases. 695. New COVID-19 
+positive test results reported to MSDH as of 3 p.m. yesterday. Total ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 7
+TITLE: COVID-19 Data for Pennsylvania
+WEBSITE: https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+SUMMARY: The COVID-19 Dashboard, which is updated each day at noon, discloses the 
+number of confirmed and probable cases, negative test results, deaths, ZIP-code
+ ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 8
+TITLE: Coronavirus - Maryland Department of Health
+WEBSITE: https://coronavirus.maryland.gov/
+SUMMARY: Cases and Deaths Data Breakdown: Parenthesis = Confirmed death, laboratory-
+confirmed positive COVID-19 test result. Asterisk = Probable death, death ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 9
+TITLE: COVID-19 Data Dashboard :: Washington State Department of Health
+WEBSITE: https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard
+SUMMARY: Negative test results data from November 21–30, 2020, are incomplete. Thus, 
+negative test results and percent ... Cases, Hospitalizations and Deaths by 
+County ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+RESULT NUMBER = 10
+TITLE: Situation Update for COVID-19 - Minnesota Dept. of Health
+WEBSITE: https://www.health.state.mn.us/diseases/coronavirus/situation.html
+SUMMARY: Graph of confirmed cases of COVID-19 by specimen collection date, data in table 
+... who live in Minnesota that tested positive for COVID-19. ... Deaths among 
+cases that resided in long-term care or ...
+-------IS IT RELEVANT (ENTER 'Y/N' or 'y/n')------: 
+y
+
+-----RELEVANCE FEEDBACK SUMMARY-----
+
+CURRENT PRECISION = 1.0
+REQUIRED PRECISION ACHIEVED
+QUERY:  ['cases', 'death', 'coronaviru', 'test']
+
+
+Process finished with exit code 0
